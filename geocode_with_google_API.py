@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:         geocode_with_API
+# Name:         geocode_with_google_API
 # Purpose:      Accesses a geocoding API (in this case Google) which returns a response
 #               in JSON format for each address. The input can be either a text file with
 #               one address per line, which will then be converted into a python list (this
