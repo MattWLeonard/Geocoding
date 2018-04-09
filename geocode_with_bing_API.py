@@ -55,8 +55,8 @@ print
 print
 print
 
-BingMapsKey = 'AvoBw7THIqKevRdc8Go19vIHfisBzRWU0L8cybIRw9k25iYPWP7Gss8CqXeJKrqN'
-# Key created by Matt Leonard on 3/15/18 (this is required to use the Bing geocoding service)
+BingMapsKey = 'YourKeyHere'
+# Insert your Bing Maps Key (this is required to use the Bing geocoding service and can be obtained for free)
 
 indexCount = 0
 
